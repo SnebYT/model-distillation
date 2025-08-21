@@ -58,12 +58,6 @@ Or run on **Google Colab** by uploading the notebook.
 
 ---
 
-## 📑 Resume Highlight
-
-> Built a **Knowledge Distillation pipeline** using HuggingFace Transformers where a large BERT teacher model distilled into a compact student model achieved **79.9% accuracy on SST-2** (outperforming the teacher).
-
----
-
 ## 📜 References
 
 - [HuggingFace Transformers](https://huggingface.co/transformers/)
